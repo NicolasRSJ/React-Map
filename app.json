@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "React_Maps",
+    "slug": "React_Maps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "React_Maps"
+}
